@@ -7,8 +7,7 @@ This repository contains selected data analytics projects that demonstrate my ab
 - SQL
 - Excel
 - Power BI
-- Python (Pandas, NumPy, Matplotlib)
-- Jupyter Notebook
+
 
 ## Projects
 
@@ -38,5 +37,5 @@ This repository contains selected data analytics projects that demonstrate my ab
 - Reduced manual reporting effort
 
 ## Contact
-- LinkedIn: https://linkedin.com/in/yourname
-- Email: your@email.com
+- LinkedIn: https://linkedin.com/in/adaretemidayo@gmail.com
+- Email: adaretemidayo@gmsil.com
